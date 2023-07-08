@@ -5,9 +5,10 @@ The application provides users with a straightforward interface to interact with
 -----------------------------------------
 ## Steps:
 
-- Clone repository
+- Clone repository and move to it
 ```
 git clone https://github.com/eslamkhaled560/django-backend.git
+cd django-backend
 ```
 
 - Create and activate a python virtual environment
